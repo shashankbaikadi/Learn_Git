@@ -1,0 +1,3 @@
+git  tag 
+
+whenever is add and commit on feature1 branch then switch to main branch all detail in feature 1 will be vanished
